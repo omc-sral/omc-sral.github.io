@@ -1,0 +1,46 @@
+baseURL: /
+copyright: (C) OMC-SRAL, NCUE, TW
+theme: PaperMod
+
+defaultContentLanguage: zh-tw
+defaultContentLanguageInSubdir: true
+mainsections: ["news"]
+
+params:
+    displayFullLangName: true
+    DateFormat: "2006-01-02 15:04"
+    showToc: true
+    showBreadCrumbs: true
+
+languages:
+    zh-tw:
+        languageCode: zh-tw
+        languageName: 繁體中文
+        title: 光機電元件和系統可靠度分析實驗室
+        weight: 0
+        contentDir: content/zh-tw
+        menus:
+            main:
+                - name: 最新消息
+                  url: news/
+                  weight: 10
+
+                - name: 實驗室介紹
+                  url: about/
+                  weight: 20
+
+    en:
+        languageCode: en
+        languageName: English
+        title: OMC-SRAL
+        weight: 1
+        contentDir: content/en
+        menus:
+            main:
+                - name: News
+                  url: news/
+                  weight: 10
+
+                - name: About us
+                  url: about/
+                  weight: 20
