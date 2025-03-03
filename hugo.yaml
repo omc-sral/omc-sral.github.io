@@ -29,6 +29,15 @@ languages:
                   url: about/
                   weight: 20
 
+        params:
+            homeInfoParams:
+                title: 光機電元件和系統可靠度分析實驗室
+                Content: 國立彰化師範大學 機電工程學系
+
+            socialIcons:
+                - name: github
+                  url: "https://github.com/omc-sral/"
+
     en:
         languageCode: en
         languageName: English
@@ -44,3 +53,12 @@ languages:
                 - name: About us
                   url: about/
                   weight: 20
+
+        params:
+            homeInfoParams:
+                title: Opto-Mechatronic Component & System Reliability Analysis Lab
+                Content: Department of Mechatronics, National Chunghua University of Education
+
+            socialIcons:
+                - name: github
+                  url: "https://github.com/omc-sral/"
