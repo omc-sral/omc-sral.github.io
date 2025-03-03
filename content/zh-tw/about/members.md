@@ -7,7 +7,7 @@ weight: 1
 
 ## 鍾官榮
 
-![](../images/test.png)
+![](../images/kjchung.webp)
 
 ---
 
