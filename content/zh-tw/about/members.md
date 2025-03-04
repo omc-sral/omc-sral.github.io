@@ -15,11 +15,15 @@ weight: 1
 
 ![](../images/test.png)
 
+研究方向：可靠度測試驗證，智慧檢測
+
 ---
 
 # 曾浚瑋
 
 ![](../images/test.png)
+
+研究方向：智慧研磨監測
 
 ---
 
@@ -27,8 +31,12 @@ weight: 1
 
 ![](../images/test.png)
 
+研究方向：智慧監測
+
 ---
 
 # 鄭凱元
 
 ![](../images/test.png)
+
+研究方向：資料生成
