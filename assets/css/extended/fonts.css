@@ -1,3 +1,7 @@
 body {
     font-family: "Iosevka Web", "Noto Sans TC";
 }
+
+.page-header h1 {
+    font-size: 56px;
+}
