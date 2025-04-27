@@ -1,9 +1,9 @@
 body {
-    font-family: "Source Sans 3", "Noto Sans TC";
+    font-family: "Source Sans 3", "Noto Sans TC", "sans-serif";
 }
 
 code {
-    font-family: "Source Code Pro";
+    font-family: "Source Code Pro", "monospace";
 }
 
 .page-header h1, .post-title {
