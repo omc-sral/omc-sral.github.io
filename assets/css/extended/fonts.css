@@ -1,9 +1,9 @@
 body {
-    font-family: "IBM Plex Sans", "Noto Sans TC";
+    font-family: "Roboto", "Noto Sans TC", sans-serif;
 }
 
 code {
-    font-family: "IBM Plex Mono";
+    font-family: "IBM Plex Mono", monospace;
 }
 
 .page-header h1, .post-title {
